@@ -15,3 +15,20 @@ $("#product1").click(function(){
     $("#product3").toggle();
 })
 });
+
+$(document).ready(function() {
+    $(".col-md-3").hover(
+      function() {
+        $(this)
+          .find(".projectcol")
+          .show();
+      },
+      function() {
+        $(this)
+          .find(".projectcol")
+          .hide();
+      }
+    );
+  });
+
+ 
