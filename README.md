@@ -33,6 +33,8 @@
 - GIT for version control
 
 ## Support and contact details
-engineervincblair@gmail.com
+engineervinceblair@gmail.com
 
 ## Licence
+
+- <a href="https://github.com/BLAIRCARSON/Delani-Studio/blob/master/LICENSE">CLICK TO VIEW LICENSE</a>
