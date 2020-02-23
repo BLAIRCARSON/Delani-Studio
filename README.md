@@ -14,13 +14,13 @@
 - Feel free to contribute to this project.
 
 ### Behaviour Driven Development
-- Landing Page: Mouse-Icon: "Smooth Scrolls to the next page. Mouse icon has a bouncing effect."
+- Landing Page: Mouse-Icon: "Scrolls to the next page. Mouse icon has a bouncing effect."
 
 - What We Do Section: "Click on the icons to display their descriptions.""Click on the descriptions again to hide them and to display the icons."
 
 - Portfolio Section: "Hover on each image to display their respective descriptions."
 
-- Contact Us Section: "Fill all forms and Submit, A popup notifcation thanking you for the feedback."
+- Contact Us Section: "Fill all forms and Submit, An alert will pop up on the screen that we got your message."
 
 
 ### Live link to my site
