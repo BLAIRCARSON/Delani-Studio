@@ -25,7 +25,10 @@
 
 ### Live link to my site
 
-- Technologies Used
+- Find my live link here <a href="https://blaircarson.github.io/Delani-Studio/">LIVE LINK</a>
+
+### Technologies Used
+
 - HTML5
 - CSS3
 - Bootstrap4
